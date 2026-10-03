@@ -1,0 +1,11 @@
+{
+ "version": "2026-10-03.1",
+ "reviewedAt": "2026-10-03",
+ "reviewProcess": "人工核对官方说明及摘要；未声称获得机构认证或完成全文系统评价",
+ "sources": [
+  {"id":"acsm-progress","title":"ACSM 2026 力量训练立场声明","published":"2026-04-01","url":"https://pubmed.ncbi.nlm.nih.gov/41843416/","locator":"Abstract: Conclusions; Eligibility criteria","population":"健康成年人；研究干预通常至少六周","type":"专业机构立场声明 / 系统综述汇总","conclusion":"健康成年人可通过渐进力量训练改善肌肉功能。","limit":"不直接规定本 App 的观察天数、RIR 门槛或每次增加一次；这些属于保守产品规则。"},
+  {"id":"acsm-personalize","title":"ACSM 2026 官方训练指南说明","published":"2026-03-17","url":"https://acsm.org/resistance-training-guidelines-update-2026/","locator":"Individualization Matters More Than Rigid Rules","population":"一般健康成年人","type":"官方指南说明","conclusion":"按目标、时间及个人情况安排训练，重视长期执行。","limit":"一般指南不能证明某个个人计划最优。"},
+  {"id":"acsm-failure","title":"ACSM 2026 力量训练立场声明","published":"2026-04-01","url":"https://pubmed.ncbi.nlm.nih.gov/41843416/","locator":"Abstract: Results","population":"健康成年人","type":"专业机构立场声明 / 系统综述汇总","conclusion":"研究没有一致显示练到瞬时力竭会改善训练结果。","limit":"不代表所有人和所有目标都应使用同一余力。"},
+  {"id":"niddk-scope","title":"NIH / NIDDK Body Weight Planner 适用范围","published":"2017-05","url":"https://www.niddk.nih.gov/health-information/weight-management/body-weight-planner","locator":"Disclaimer; Last Reviewed","population":"成年人；不适用于未成年人、孕期或哺乳期","type":"政府机构健康信息","conclusion":"个人体重规划工具不替代了解病史的医护专业人员。","limit":"不用于支持本 App 自动调整热量或伤病康复处方。"}
+ ]
+}

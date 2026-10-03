@@ -1,0 +1,1208 @@
+[
+ {
+  "name": "杠铃卧推",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "上斜杠铃卧推",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "下斜杠铃卧推",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "窄握杠铃卧推",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃卧推",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "上斜哑铃卧推",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "下斜哑铃卧推",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃地板卧推",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃挤压卧推",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃飞鸟",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "上斜哑铃飞鸟",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "坐姿推胸",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "上斜推胸机",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "史密斯卧推",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "史密斯上斜卧推",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索夹胸",
+  "equipment": "绳索 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "高位绳索夹胸",
+  "equipment": "绳索 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "低位绳索夹胸",
+  "equipment": "绳索 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "蝴蝶机夹胸",
+  "equipment": "绳索 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带夹胸",
+  "equipment": "绳索 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "标准俯卧撑",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "跪姿俯卧撑",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "上斜俯卧撑",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "下斜俯卧撑",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "宽距俯卧撑",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "双杠臂屈伸",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "高位下拉",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "窄握高位下拉",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反握高位下拉",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单臂高位下拉",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "辅助引体向上",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "正握引体向上",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反握引体向上",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "中立握引体向上",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "负重引体向上",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "杠铃俯身划船",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "潘德雷划船",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "T杠划船",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反握杠铃划船",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单臂哑铃划船",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "双臂哑铃划船",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "胸托哑铃划船",
+  "equipment": "哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "坐姿绳索划船",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单臂绳索划船",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "胸托划船机",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "高位划船机",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "低位划船机",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向划船",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "悬吊划船",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带划船",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带下拉",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "直臂下拉",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃上拉",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "背部伸展",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向挺身",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "站姿杠铃肩推",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "坐姿杠铃肩推",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "坐姿哑铃肩推",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "站姿哑铃肩推",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "阿诺德推举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单臂哑铃肩推",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "地雷杆推举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "肩推机",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "史密斯肩推",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带肩推",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "派克俯卧撑",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "倒立俯卧撑",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "哑铃侧平举",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索侧平举",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "侧平举机",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带侧平举",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃前平举",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索前平举",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "俯身反向飞鸟",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向蝴蝶机",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索反向飞鸟",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "面拉",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带拉开",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "肩袖外旋",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "肩袖内旋",
+  "equipment": "哑铃 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "杠铃背蹲",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "杠铃前蹲",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "泽奇深蹲",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "箱式深蹲",
+  "equipment": "杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "高脚杯深蹲",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃深蹲",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "保加利亚分腿蹲",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃弓步蹲",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向弓步蹲",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "行走弓步蹲",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "台阶上步",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "侧弓步",
+  "equipment": "哑铃 / 壶铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "腿举",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哈克深蹲",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "史密斯深蹲",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "腰带深蹲",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "腿屈伸",
+  "equipment": "器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "自重深蹲",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "分腿蹲",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "自重弓步蹲",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单腿坐站",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "手枪深蹲",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "靠墙静蹲",
+  "equipment": "自重",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "西班牙深蹲",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "传统硬拉",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "相扑硬拉",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "六角杠硬拉",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "罗马尼亚硬拉",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃罗马尼亚硬拉",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单腿罗马尼亚硬拉",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "早安式",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "坐姿腿弯举",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "俯卧腿弯举",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "站姿腿弯举",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "北欧腿弯举",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "滑盘腿弯举",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "健身球腿弯举",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "杠铃臀推",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "臀推机",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "史密斯臀推",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索后踢腿",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索拉臀",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "髋外展机",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "髋内收机",
+  "equipment": "杠铃 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "臀桥",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单腿臀桥",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带臀桥",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "蚌式开合",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "侧卧抬腿",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带侧向走",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "四点跪姿后踢腿",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "消防栓式",
+  "equipment": "自重 / 弹力带",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "站姿提踵",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "坐姿提踵",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "腿举机提踵",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单腿提踵",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃提踵",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "胫骨前肌抬脚",
+  "equipment": "器械 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "杠铃弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "EZ杠弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃交替弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "锤式弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "上斜哑铃弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "牧师凳弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "集中弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索弯举",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索锤式弯举",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "高位绳索弯举",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弯举机",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带弯举",
+  "equipment": "绳索 / 器械",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "仰卧臂屈伸",
+  "equipment": "哑铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃颈后臂屈伸",
+  "equipment": "哑铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "单臂哑铃颈后臂屈伸",
+  "equipment": "哑铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃后踢",
+  "equipment": "哑铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "EZ杠颈后臂屈伸",
+  "equipment": "哑铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索下压",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "直杆下压",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反握下压",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索过顶臂屈伸",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "弹力带下压",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "窄距俯卧撑",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "凳上臂屈伸",
+  "equipment": "绳索 / 自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "腕弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向腕弯举",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "哑铃耸肩",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "杠铃耸肩",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "握力器",
+  "equipment": "杠铃 / 哑铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "农夫行走",
+  "equipment": "杠铃 / 哑铃",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "单侧提箱行走",
+  "equipment": "杠铃 / 哑铃",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "平板支撑",
+  "equipment": "自重",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "侧平板支撑",
+  "equipment": "自重",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "死虫式",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "鸟狗式",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "卷腹",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "反向卷腹",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "仰卧抬腿",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "悬垂举膝",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "悬垂举腿",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "登山式",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "俄罗斯转体",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "仰卧交替触踝",
+  "equipment": "自重",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "健腹轮",
+  "equipment": "器械 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "绳索卷腹",
+  "equipment": "器械 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "腹肌训练机",
+  "equipment": "器械 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "帕洛夫抗旋转推",
+  "equipment": "器械 / 绳索",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "绳索伐木",
+  "equipment": "器械 / 绳索",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "健身球平板支撑",
+  "equipment": "器械 / 绳索",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "哥本哈根侧支撑",
+  "equipment": "器械 / 绳索",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "壶铃摆动",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "壶铃高脚杯蹲推",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "土耳其起立",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "杠铃翻举",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "高翻",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "杠铃抓举",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "哑铃抓举",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "推举",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": true
+ },
+ {
+  "name": "杠铃蹲推",
+  "equipment": "壶铃 / 杠铃",
+  "timed": false,
+  "advanced": false
+ },
+ {
+  "name": "战绳",
+  "equipment": "壶铃 / 杠铃",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "雪橇推",
+  "equipment": "壶铃 / 杠铃",
+  "timed": true,
+  "advanced": false
+ },
+ {
+  "name": "雪橇拉",
+  "equipment": "壶铃 / 杠铃",
+  "timed": true,
+  "advanced": false
+ }
+]
